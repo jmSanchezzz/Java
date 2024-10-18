@@ -1,0 +1,9 @@
+Moon Life
+Agent's Quarterly Report
+Agent Name	Quarter1	Quarter2	Quarter3	Quarter4	Average Sales
+
+Enrique, Hill	$1,234.56	$2,345.67	$3,456.78	$4,567.89	$2,901.23
+Liza, Seguerra	$9,876.54	$8,765.43	$7,654.32	$6,543.21	$8,209.88
+Bea, Bunda	$9,182.12	$8,300.76	$1,239.02	$5,674.02	$6,098.98
+Lucky, Me	$4,541.45	$9,320.75	$6,826.87	$9,814.02	$7,625.77
+Overall Average Sales of Agent for the year: $6,208.96
